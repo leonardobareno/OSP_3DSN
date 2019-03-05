@@ -14,7 +14,7 @@ https://github.com/leonardobareno/OSP_3DSN/raw/master/binaries/OSP_3DSN_Oculus_b
 
 1. Instalar drivers de Space Navigator (https://www.3dconnexion.com/service/drivers.html )
 
-2. Conectar el Space Navigator al PC, verificar que opera correctamente (p ej, mediante uno de los demos instalados junto con el driver de 3Dconnexion)
+2. Conectar el Space Navigator al PC, verificar que opera correctamente (p ej, mediante uno de los demos includos con el driver)
 
 3. Dar doble clic en .\OSP_3DSN.exe para arrancar la aplicación.
 
